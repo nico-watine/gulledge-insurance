@@ -30,6 +30,16 @@
 		"oAP": "\/_ignores\/gulledge-insurance.sublime-workspace",
 		"oF": 0
 		},
+	"\/css\/custom.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/css\/custom-min.css",
+		"oF": 0,
+		"oS": 3
+		},
 	"\/README.md": {
 		"cB": 0,
 		"cS": 0,
@@ -61,6 +71,19 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"\/scss\/blocks\/_mainMenu.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/scss\/blocks\/_mainMenu.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
 	"\/scss\/custom.scss": {
 		"aP": 1,
 		"bl": 0,
@@ -71,6 +94,32 @@
 		"oA": 0,
 		"oAP": "\/css\/custom.css",
 		"oF": 2,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/scss\/library-containers\/_coveragePageHero.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/scss\/library-containers\/_coveragePageHero.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/scss\/library-containers\/_library-containers.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/scss\/library-containers\/_library-containers.css",
+		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		}

@@ -1,0 +1,10 @@
+.coveragePageHero h1 {
+  color: #fff;
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.5); }
+
+.coveragePageHero p {
+  font-size: 20px; }
+
+.insuranceCoverageButton .fusion-button {
+  text-transform: none;
+  font-size: 18px; }
