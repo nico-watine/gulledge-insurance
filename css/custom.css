@@ -1,10 +1,7 @@
-.coveragePageHero h1 {
-  color: #fff;
-  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.5); }
+.coveragePageHero h1 { color: #fff; text-shadow: 0 2px 4px rgba(0, 0, 0, 0.5); }
 
-.coveragePageHero p {
-  font-size: 20px; }
+.coveragePageHero p { font-size: 20px; }
 
-.insuranceCoverageButton .fusion-button {
-  text-transform: none;
-  font-size: 18px; }
+.insuranceCoverageButton .fusion-button { text-transform: none; font-size: 18px; line-height: 1; }
+
+.insuranceCoverageButton .fusion-button:hover { background: #0055a5; color: #fff; }
