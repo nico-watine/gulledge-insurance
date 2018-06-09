@@ -18,15 +18,12 @@
 		color: #fff;
 		text-shadow: 0 0 15px #000;
 		font-weight: bold;
-		padding: 15px 30px;
-	}
-}
+		padding: 15px 30px 0;
+		height: 80px;
 
-.singleLine {
-	.fusion-megamenu-title {
-		a {
-			line-height: 80px;
-			padding: 0 30px;
+		&:hover {
+			text-decoration: underline;
+			text-shadow: none;
 		}
 	}
 }
@@ -34,6 +31,10 @@
 .fusion-megamenu-wrapper {
 	.fusion-megamenu-submenu {
 		padding: 0;
-		height: 80px;
+
+		&:hover {
+			background: $blue;
+			background-image: none !important;
+		}
 	}
 }
