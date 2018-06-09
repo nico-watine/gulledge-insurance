@@ -1,14 +1,18 @@
 .coveragePageHero {
 	.reading-box {
 		border: 5px solid $red !important;
+
+		h3 {
+			span {
+				font-weight: bold;
+				color: $blue;
+			}
+		}
 	}
 
 	h1 {
 		color: #fff;
 		text-shadow: 0 2px 4px rgba(0,0,0,.50);
-		// padding-left: 10px !important;
-		// padding-right: 10px !important;
-		// background: rgba(0,85,165,.50);
 	}
 
 	p {
