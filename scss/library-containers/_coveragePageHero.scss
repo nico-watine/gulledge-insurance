@@ -1,6 +1,13 @@
 .coveragePageHero {
 	.reading-box {
 		border: 5px solid $red !important;
+
+		h3 {
+			span {
+				font-weight: bold;
+				color: $blue;
+			}
+		}
 	}
 
 	h1 {
