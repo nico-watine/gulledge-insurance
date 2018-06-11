@@ -51,6 +51,20 @@
 		"oF": 0,
 		"oS": 3
 		},
+	"\/duplicator-backups\/06-11\/20180611_gulledgeinsurance_02f7d9ec43ebda446875180611183704_archive.zip": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/duplicator-backups\/06-11\/20180611_gulledgeinsurance_02f7d9ec43ebda446875180611183704_archive.zip",
+		"oF": 0
+		},
+	"\/duplicator-backups\/06-11\/installer.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/duplicator-backups\/06-11\/installer.php",
+		"oF": 0
+		},
 	"\/fusion-options-backup\/fusion_options_backup_11-06-2018.json": {
 		"ft": 524288,
 		"oA": 1,
