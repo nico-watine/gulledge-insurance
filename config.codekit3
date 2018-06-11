@@ -16,6 +16,17 @@
 		"oAP": "\/.gitignore",
 		"oF": 0
 		},
+	"\/_ignores\/codekit-icon.png": {
+		"ft": 32768,
+		"iS": 10459,
+		"oA": 0,
+		"oAP": "\/_ignores\/codekit-icon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/_ignores\/gulledge-insurance.sublime-project": {
 		"cB": 0,
 		"ft": 8192,
@@ -140,7 +151,7 @@
 	"creationDate": 549492089,
 	"displayValue": "gulledge-insurance",
 	"displayValueWasSetByUser": 0,
-	"iconImageName": "meme-grumpy",
+	"iconImageName": "\/_ignores\/codekit-icon.png",
 	"iconImageWasSetByUser": 0
 	},
 "projectSettings": {
