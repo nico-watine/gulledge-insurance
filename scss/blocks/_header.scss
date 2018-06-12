@@ -1,0 +1,13 @@
+
+$minWidth_801-maxWidth_890: "only screen and (min-width : 801px) and (max-width : 890px)";
+
+@media #{$minWidth_801-maxWidth_890} {
+	.fusion-header {
+		height: auto !important;
+	}
+
+	.fusion-logo img {
+		width: 180px;
+		height: auto;
+	}
+}
