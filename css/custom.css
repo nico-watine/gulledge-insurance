@@ -2,6 +2,8 @@
 
 #index-policyGrid .fusion-column-inner-bg a span { background-position: right center !important; }
 
+@media only screen and (max-width: 800px) { #index-policyGrid .fusion-row { max-width: 600px !important; } }
+
 .coveragePageHero .reading-box { border: 5px solid #cc3a41 !important; }
 
 .coveragePageHero .reading-box h3 span { font-weight: bold; color: #0055a5; }
